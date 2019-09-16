@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+The diff helped me identify the sections of the new file that were changed. Because it told me this, I could easily identify in these small chunks where the bug was.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Having easy access to the history of a file will allow you to copy previous sets of code that you would like to use again and paste it in a new set of code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+A pro is that it is a good habit to remember to save your versions after a lot of progress is made. Also, you can commit at any time. A con is that if you don't remember to save your versions, a lot of work and time could be lost.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+I think that Git may require you to commit because programming long sets of code can be tedious and time consuming, so one may want to save their work whenever they want.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log is a command that can be used to look at the total history of commands that has been written. Git diff can be used to identify the differences between two versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Version control involves keeping a software system with many different versions. This could help you be more confident when making changes that could break something because you still have another version to back it up.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to try to use Git to look at the history of code and restore old code.
