@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, you create a file where you can store other smaller files. You need a repository so you can commit at one time and save every file at once.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where files can be placed one by one and then placed into the repository instead of making one commit all at once.
