@@ -1,0 +1,27 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, you create a file where you can store other smaller files. You need a repository so you can commit at one time and save every file at once.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where files can be placed one by one and then placed into the repository instead of making one commit all at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area by committing each file at an individual time into the repository. This is considered a logical change, whereas committing all files at once would be too large of a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches could be useful when you are trying to edit or open a particular version of your software. If you want to find the branch that contains a new feature, you would be able to find it easily if it is saved as a branch.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help make it a little more clear of what the defined branches are.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches will combine the information from both branches into one. We represent it in the diagram the way we do because it makes it clear which two branches were merged and what the new branch that they were merged into is called.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging system is extremely helpful because it can merge two branches together into one branch without you having to do anything. It is especially useful when you are limited on time and want to just continue with the development of the software without having to worry about a disorganized system. The downside is that there may be an error when Git automatically merges two branches. For example, some data may be lost or, or the entire branch could get deleted.
