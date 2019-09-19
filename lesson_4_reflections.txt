@@ -5,3 +5,7 @@ You would want to use a remote repository when you want to transfer your local w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You might want to always pull changes manually because you can update a local repository through the use of a remote whenever you would like to. This is a better alternative because if you let Git do it automatically, then it may update your repository through a remote when you don't want it to. For example, the public repository on GitHub may contain some invalid code.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are GitHub's way to copy a repository online. When you fork, you can get your own version of another repository, and from there, you can update your own changes. When you fork on GitHub, you can copy a repository onto GitHub. Cloning is similar. When you clone, you get access to a local version of a repository. However, the difference is that this repository is not copied on GitHub. Lastly, when you create a new branch, you can update this branch without affecting the initial master branch.
