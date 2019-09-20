@@ -13,3 +13,7 @@ Forks are GitHub's way to copy a repository online. When you fork, you can get y
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If you copy the most recent state of the remote and store it locally, you can update your own version of the remote any way you would like to without changing the original remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Another system that I could use to collaborate with others is Google Docs. It would be easier because I am more familiar with it than GitHub. However, it would also be harder because it doesn't offer the unique features that GitHub offers, such as push, pull, cloning, and forking.
