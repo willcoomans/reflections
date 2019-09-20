@@ -17,3 +17,7 @@ If you copy the most recent state of the remote and store it locally, you can up
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Another system that I could use to collaborate with others is Google Docs. It would be easier because I am more familiar with it than GitHub. However, it would also be harder because it doesn't offer the unique features that GitHub offers, such as push, pull, cloning, and forking.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making a change in another branch decreases the chance that you will make a change that can change the entire system. Some benefits that this has is that you can take risks in this branch because there is always the master branch to back it up. 
